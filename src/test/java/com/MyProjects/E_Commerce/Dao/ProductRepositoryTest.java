@@ -41,6 +41,7 @@ public class ProductRepositoryTest
             productDao.add(product2);
         });
     }
+    //test the new branch test dao
    /* @Test
     public  void findProduct_existingProduct_returnProduct()
     {
